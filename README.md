@@ -28,6 +28,7 @@
 
 - *Google Fonts* (Tipografías Roboto / Poppins)
 - *Bootstrap Icons* (Íconos interactivos de redes sociales y carrito)
+- *Flaticon* (Favicon)
 
 ## ⚙️ Metodologías y Deploy
 

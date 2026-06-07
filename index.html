@@ -7,15 +7,20 @@
     <!-- --- CSS --- -->
     <link rel="stylesheet" href="src/css/style.css" />
 
-    <!-- --- JS --- -->
-    <script src="src/js/script.js"></script>
-
     <!-- --- BOOTSTRAP ICONS --- -->
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css" />
+
+    <!-- --- FLATICON -> FAVICON--- -->
+    <link
+      rel="shortcut icon"
+      href="src/assets/images/favicon.ico"
+      type="image/x-icon" />
   </head>
   <body>
+
+
     <!-- --- HEADER --- -->
     <header class="content">
       <a href="index.html" class="logo">
@@ -27,21 +32,32 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="#sobre">Sobre</a></li>
           <li><a href="#menu">menù</a></li>
-          <li><a href="#">Contacto</a></li>
+          <li><a href="#contacto">Contacto</a></li>
         </ul>
       </nav>
 
       <div class="icons">
-          <span>
-            <a href="https://www.instagram.com/"><i class="bi bi-instagram"></i></a>
-          </span>
-          <span>
-            <a href="https://www.facebook.com/"><i class="bi bi-facebook"></i></a>
-          </span>
-          <span>
-            <a href="#"><i class="bi bi-cart4"></i></a>
-          </span>
-        </div>
+        <span>
+          <a href="https://www.instagram.com/" target="_blank"
+            ><i class="bi bi-instagram"></i
+          ></a>
+        </span>
+        <span>
+          <a href="https://www.facebook.com/" target="_blank"
+            ><i class="bi bi-facebook"></i
+          ></a>
+        </span>
+        <span>
+          <a href="#"><i class="bi bi-cart4"></i></a>
+        </span>
+      </div>
+
+      <div class="bars-menu">
+        <div class="bar-one"></div>
+        <div class="bar-two"></div>
+        <div class="bar-three"></div>
+      </div>
+
     </header>
     <!-- --- FINAL HEADER --- -->
 
@@ -89,7 +105,7 @@
         </div>
       </section>
 
-      <!-- --- MENÚ--- -->
+      <!-- --- MENÚ --- -->
       <section class="menu" id="menu">
         <div class="menu-title"><h2>Nostro Menù</h2></div>
 
@@ -288,11 +304,71 @@
           </article>
         </div>
       </section>
+
+      <!-- --- CONTACTO --- -->
+      <section class="contacto" id="contacto">
+        <div class="contacto-title"><h2>Contáctenos</h2></div>
+
+
+        <div class="contacto-icons">
+
+          <div class="contacto-icons-items">
+            <span><i class="bi bi-telephone-fill"></i></span>
+            <h4>Llámanos al</h4>
+        <p><a href="#" title="Haz clic para ver nuestro número de contacto">+34 567 89 01 23</a></p>
+          </div>
+
+          <div class="contacto-icons-items">
+            <span><i class="bi bi-geo-alt-fill"></i></span>
+            <h4>Tienda Física</h4>
+            <p><a href="#" title="Haz clic para ver nuestra dirección">C/ Sorkunde 7, Bilbao</a></p>
+          </div>
+
+          <div class="contacto-icons-items">
+            <span><i class="bi bi-globe-americas-fill"></i></span>
+            <h4>WebSite</h4>
+        <p><a href="#" title="Haz clic para ver nuestro site">Danni@dev.com</a></p>
+          </div>
+          
+        </div>
+
+
+      </section>
     </main>
     <!-- --- FINAL MAIN --- -->
 
     <!-- --- FOOTER --- -->
-    <footer></footer>
+    <footer>
+                <span><i class="bi bi-whatsapp"></i></span>
+
+
+      <div class="copy">
+        <p>&copy; 2026 PizzaShop by Daniela Tenório</p>
+
+        <!-- Link de atribuição do Flaticon -->
+      <small>
+        <a
+          href="https://www.flaticon.com/br/icones-gratis/pizza"
+          title="pizza ícones"
+          target="_blank"
+          rel="noopener noreferrer">
+          Pizza ícones criados por Freepik - Flaticon
+        </a>
+      </small>
+      </div>
+      
+
+      
+
+
+
+            <div class="up"><a href="index.html"><span><i class="bi bi-arrow-up-circle"></i></span></a></div>          
+
+    </footer>
     <!-- --- FINAL FOOTER --- -->
+
+
+     <!-- --- JS --- -->
+    <script src="src/js/script.js"></script>
   </body>
 </html>
