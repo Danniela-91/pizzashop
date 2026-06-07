@@ -438,21 +438,23 @@ footer {
   background-color: var(--backgound);
 }
 
+/*==== FLECHA ARRIBA ====*/
 footer .up {
   position: fixed;
   bottom: 20px;
   right: 20px;
   font-size: 2.6rem;
-  z-index: 9999;
+  z-index: 998;
 }
 
 footer .up a {
-  display: block;
+  display: none;
   color: var(--destaque);
   text-decoration: none;
   cursor: pointer;
 }
 
+/*==== COPY Y ATRIBUICIONES ====*/
 footer .copy {
   width: 100%;
   margin: 0 auto;
@@ -488,6 +490,9 @@ small a {
     transform 0.3s ease,
     opacity 0.3s ease;
 }
+
+
+
 
 /*==== MEDIAS QUERIES ====*/
 @media (max-width: 1200px) {
@@ -526,6 +531,8 @@ small a {
   }
 }
 
+
+
 @media (max-width: 900px) {
   /*==== HEADER ====*/
   .content .list-menu {
@@ -560,7 +567,8 @@ small a {
   }
 }
 
-/*==== MENU HAMBURGUESA ====*/
+
+/*==== MOBILE - MENU HAMBURGUESA ====*/
 @media (max-width: 790px) {
   .first-sect {
     background-position-y: 0;
@@ -641,8 +649,19 @@ small a {
   .bars-menu.open .bar-three {
     transform: rotate(45deg) translate(-5px, -6px);
   }
+
+ /*==== FLECHA ARRIBA ====*/
+  footer .up a {
+  display: block;
+  color: var(--destaque);
+  text-decoration: none;
+  cursor: pointer;
 }
 
+}
+
+
+/*==== PANTALLAS  MÁS PEQUEÑAS ====*/
 @media (max-width: 550px) {
   /*==== HOME ====*/
   .first-sect h1 {

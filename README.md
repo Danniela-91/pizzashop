@@ -1,28 +1,22 @@
-# 🍕 PizzaShop
+# 🍕 PizzaShop 
 
 ##  Una pizzería artesanal italiana de estilo moderno.
 
 ## 📸 Demostración:
 
-### Página web
-
 <p align="center">
   <img alt="Proyecto Final - Inatec" src="./src/assets/images/proyecto-pic.png" width="50%">
 </p>
 
-### Formulario
-
-<p align="center">
-  <img alt="Proyecto Final - Inatec" src="#" width="80%">
-</p>
-
-- <a href="https://danniela-91.github.io/mi.portafolio/" target= "_blank">Mira el proyecto completo</a>
+- <a href="danniela-91.github.io/pizzashop/">Mira el proyecto completo</a>
 
 ## 🚀 Tecnologías
 
 - *HTML5* (Semántica y Accesibilidad)
 - *CSS3* (Variables nativas, CSS Grid, Flexbox y animaciones de transición)
+- *JavaScript* (Animacíon Menù Hamburguesa)
 - *Git y GitHub* (Control de versiones)
+
 
 ## 📚 Integraciones y librerías
 
