@@ -55,7 +55,7 @@
 
 ## 👤 Autor
 
-✨ Desenvolvido com 💜 por Daniela Tenório
+✨ Desarrollado con 💜 por Daniela Tenório
 
-- 📫 Entre em contato: `danniela.tenorio91@gmail.com`
-- 🔗 Conecte-se comigo no [LinkedIn](https://linkedin.com)
+- 📫 Contacto: `danniela.tenorio91@gmail.com`
+- 🔗 Conéctate conmigo en: [LinkedIn](https://linkedin.com)
