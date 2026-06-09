@@ -5,7 +5,7 @@
 ## 📸 Demostración:
 
 <p align="center">
-  <img alt="Landing page PizzaShop" src="./src/assets/images/proyecto-pic.png" width="50%">
+  <img alt="Landing page PizzaShop" src="./src/assets/images/proyecto-pic.jpeg" width="50%">
 </p>
 
 - 🔗 [Mira el proyecto completo aquí](https://github.io)
