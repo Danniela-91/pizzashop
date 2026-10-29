@@ -14,7 +14,7 @@
 
 - *HTML5* (Semántica y Accesibilidad)
 - *CSS3* (Variables nativas, CSS Grid, Flexbox y animaciones de transición)
-- *JavaScript* (Animación de Menú Hamburguesa)
+- *JavaScript Vanilla* (Animación de Menú Hamburguesa)
 - *Git y GitHub* (Control de versiones)
 
 ## 📚 Integraciones y Librerías
