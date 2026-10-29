@@ -569,7 +569,7 @@ small a {
 
 
 /*==== MOBILE - MENU HAMBURGUESA ====*/
-@media (max-width: 790px) {
+@media (max-width: 768px) {
   .first-sect {
     background-position-y: 0;
   }
