@@ -8,7 +8,7 @@
   <img alt="Landing page PizzaShop" src="./src/assets/images/proyecto-pic.jpeg" width="50%">
 </p>
 
-- 🔗 <a href="https://danniela-91.github.io/mi.portafolio/" target="_blank">Mira el proyecto completo aquí</a>
+- 🔗 <a href="https://danniela-91.github.io/pizzashop/" target="_blank">Mira el proyecto completo aquí</a>
 
 ## 🚀 Tecnologías
 
